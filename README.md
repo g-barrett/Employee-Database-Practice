@@ -25,3 +25,7 @@ Information on how to run tests for the project.
 # License
 
 The type of license the project is released under.
+
+# Credits
+
+https://www.npmjs.com/package/inquirer
